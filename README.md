@@ -48,7 +48,3 @@ Thank You for taking the time to view my GitHub Profile.
 
 
 ---
-
-#### 🐍 Snake vs. my graph
-![github-user-contribution](https://github.com/user-attachments/assets/7e76cf95-0b4b-4964-97b5-6bef293ae721)
-

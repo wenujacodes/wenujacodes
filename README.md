@@ -5,7 +5,7 @@
   
 <div size='1px'>I'm Wenuja Liyanamana.
 A passionate Full-Stack Developer based in Sri Lanka. 🇱🇰 <br>
-Thank You for taking the time to view my GitHub Profile.
+
   </div>
 
 ---
@@ -48,3 +48,4 @@ Thank You for taking the time to view my GitHub Profile.
 
 
 ---
+Thank You for taking the time to view my GitHub Profile.

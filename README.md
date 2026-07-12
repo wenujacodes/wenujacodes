@@ -1,1 +1,1 @@
-<img src="cover.png" alt="wenujacodes-cover" width="120"/>
+<img src="cover.png" alt="wenujacodes-cover" width="100%"/>
